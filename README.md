@@ -4,10 +4,10 @@ We're a small (and growing) gaming community founded with the community and it's
 
 # mythic_resources
 Original resource created by `Mythic`?  
-Modified by [Warden Eternal](https://github.com/TheWardenEternal)
+Modified by [sloth](https://github.com/DGSloth)
 
 ### Download
-- Download https://github.com/TheWardenEternal/mythic_resources/archive/main.zip
+- Download https://github.com/DGSloth/mythic_resources/archive/main.zip
 - Put it in any directory
 
 ### Installation
